@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banco de Dados</string>
+    <string name="qual_nome">Qual o seu nome?</string>
+    <string name="digite">digite o seu nome</string>
+    <string name="salvar">SALVAR</string>
+    <string name="prQual">qual o nome?</string>
+    <string name="banco_de_dados">Banco de Dados</string>
+</resources>
